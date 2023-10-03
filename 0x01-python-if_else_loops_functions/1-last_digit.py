@@ -5,7 +5,7 @@ lastDigit = abs(number) % 10
 string1 = ("Last digit of {:d} is".format(number))
 
 if number < 0:
-   lastDigit = -(lastDigit)
+    lastDigit = -(lastDigit)
 
 if lastDigit > 5:
     string2 = "and is greater than 5"
