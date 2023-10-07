@@ -1,14 +1,8 @@
 #!/usr/bin/python3
+# 0_add.py
 
-""" Imports the function from add_0.py
-
-   prints the result of the addition 1 + 2 = 3
-
-   Assign:
-         a = 1, b = 2
-"""
 if __name__ == "__main__":
-
+    """Print the sum of a and b."""
     from add_0 import add
 
     a = 1
