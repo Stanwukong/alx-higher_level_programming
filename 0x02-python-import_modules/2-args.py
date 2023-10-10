@@ -12,5 +12,5 @@ if __name__ == "__main__":
     else:
         print("{} arguments:".format(numArgs))
 
-    for arg in range(numArgs):
-        print("{} : {}".format(arg + 1, sys.argv[arg + 1]))
+    for arg in range(1, numArgs + 1):
+        print("{}: {}".format(arg, sys.argv[arg]))
