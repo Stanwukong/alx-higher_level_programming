@@ -14,6 +14,7 @@ This repo contains programs written for the higher-level programming track at AL
 - [0x08. Python - More Classes and Objects](./0x08-python-more_classes)
 - [0x09. Python - Everything is object](./0x09-python-everything_is_object)
 - [0x0A. Python - Inheritance](./0x0A-python-inheritance)
+- [0x0B. Python - Input/Output](./0x0B-python-input_output)
 
 ## Author :black_nib:
 - **Stanley O Ajanaku** <[Stanwukong](https://github.com/stanwukong)>
