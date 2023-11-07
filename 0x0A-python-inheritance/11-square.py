@@ -16,7 +16,6 @@ class Square(Rectangle):
         super().__init__(size, size)
         self.__size = size
 
-
     def __str__(self):
         """Provides str representation of objects of this class."""
 
