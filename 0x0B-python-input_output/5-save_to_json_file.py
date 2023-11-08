@@ -1,4 +1,4 @@
-#1/usr/bin/python3
+#!/usr/bin/python3
 """This module defines an object-saving function."""
 import json
 
