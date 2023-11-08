@@ -19,14 +19,16 @@ def pascal_triangle(n):
 
     triangle.append([1])
 
-    for line in range(n - 1):
-        last_row = triangle[-1]
-        new_row = [1]
+    for line in range(n):
+        row = [1]
+        
+        if line > 0:
+            last_row = triangle[-1]
+            for i in range(len(last_row) - 1):
+                row.append(last_row[i - 1] + last_row[i])
 
-        for j in range(len(last_row) - 1):
-            new_row.append(last_row[j - 1] + last_row[j])
+                row.append(1)
 
-        new_row.append(1)
-        triangle.append(new_row)
+        triangle.append(row)
 
     return triangle
