@@ -18,6 +18,7 @@ This repo contains programs written for the higher-level programming track at AL
 - [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle)
 - [0x1B. C - Sorting algorithms & Big O](https://github.com/Stanwukong/sorting_algorithms.git)
 - [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
+- [0x0E. SQL - More queries](./0x0E-SQL_more_queries)
 
 
 ## Author :black_nib:
