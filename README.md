@@ -19,6 +19,7 @@ This repo contains programs written for the higher-level programming track at AL
 - [0x1B. C - Sorting algorithms & Big O](https://github.com/Stanwukong/sorting_algorithms.git)
 - [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 - [0x0E. SQL - More queries](./0x0E-SQL_more_queries)
+- [0x12. JavaScript - Warm up](./0x12-javascript-warm_up)
 
 
 ## Author :black_nib:
