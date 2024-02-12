@@ -26,6 +26,7 @@ This repo contains programs written for the higher-level programming track at AL
 - [0x13. JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
 
 
+
 ## Author :black_nib:
 - **Stanley O Ajanaku** <[Stanwukong](https://github.com/stanwukong)>
 
