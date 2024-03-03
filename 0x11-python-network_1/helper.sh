@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 # Commits and pushes code changes to github
+pycodestyle *.py
+chmod u+x *.py
 git status
 git add .
 git status
