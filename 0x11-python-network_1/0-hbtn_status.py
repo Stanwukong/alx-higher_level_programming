@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Fetches a website
+"""Fetches a website."""
 import urllib
 
 if __name__ == "__main__":
